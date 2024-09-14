@@ -1,0 +1,1 @@
+This folder contains methods of adding styling, id and class selectors, grouping selectors, chaining selectors, descendant combinators and cascade fix. 
